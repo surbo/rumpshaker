@@ -14,6 +14,7 @@ Code: N/A
 
 
 
+tl;dr - Enable password for your meetings
 
 # Zoom Meeting Vulnerability & Best practices guide.
 
